@@ -10,7 +10,7 @@ If you are looking to running this project, you can go to each README file in th
 We had also deploy this project and it was our first time using google cloud. If you are interested in deploying please follow down the instruction
 
 
-# Don't forget to install google cloud and login #
+# Don't forget to install google cloud and login 
 
  Go to each submodule, you will find a dockerfile, build it using this command
 
@@ -36,7 +36,7 @@ We had also deploy this project and it was our first time using google cloud. If
 
 HAPPY DEPLOYMENT
 
-                                    ############################################################################################
-                                    #THANK YOU FOR YOUR VISIT. PLEASE COME AND TAKE A LOOK ONCE IN A WHILE TO FIND NEW PROJECT.# 
-                                    #                                   HAVE A NICE DAY                                        #
-                                    ############################################################################################
+    ############################################################################################
+    #THANK YOU FOR YOUR VISIT. PLEASE COME AND TAKE A LOOK ONCE IN A WHILE TO FIND NEW PROJECT.# 
+    #                                   HAVE A NICE DAY                                        #
+    ############################################################################################
