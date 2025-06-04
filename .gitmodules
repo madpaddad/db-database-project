@@ -1,0 +1,6 @@
+[submodule "api"]
+	path = api
+	url = https://github.com/madpaddad/db-admin-design-api
+[submodule "web"]
+	path = web
+	url = https://github.com/madpaddad/db-admin-design-web
