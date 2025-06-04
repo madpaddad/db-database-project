@@ -29,14 +29,14 @@ After deployment you will get a url and replace the string to build to your web 
 
 ##WEB
 ```
-    docker build --build-arg VITE_API_BASE_URL=${String} <your-web-image> .
-    docker tag <your-web-image> ${your desired location}/${project name}/${repo}/{your repo folder}
-    docker push ${your desired location}/${project name}/${repo}/{your repo folder}
+docker build --build-arg VITE_API_BASE_URL=${String} <your-web-image> .
+docker tag <your-web-image> ${your desired location}/${project name}/${repo}/{your repo folder}
+docker push ${your desired location}/${project name}/${repo}/{your repo folder}
 ```
 
 HAPPY DEPLOYMENT
 
-############################################################################################
-#THANK YOU FOR YOUR VISIT. PLEASE COME AND TAKE A LOOK ONCE IN A WHILE TO FIND NEW PROJECT.# 
-#                                   HAVE A NICE DAY                                        #
-############################################################################################
+##########################################################################################
+THANK YOU FOR YOUR VISIT. PLEASE COME AND TAKE A LOOK ONCE IN A WHILE TO FIND NEW PROJECT.
+                                   HAVE A NICE DAY                                        
+##########################################################################################
